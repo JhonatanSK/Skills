@@ -1,7 +1,7 @@
 
 # Skills
 
-Skills is a mobile application to show your skills to everyone
+Skills is a mobile application to show your skills to everyone made with React Native
 
 ## Screenshot
 
